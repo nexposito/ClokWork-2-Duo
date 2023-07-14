@@ -8,5 +8,12 @@ https://www.phaetus.com/products/taichi-hotend
 
 | Part  | Qty |
 | ------------- | ------------- |
-| M3x4x5 heatset insert  |  |
-| Content Cell  | Content Cell  |
+| M3x4x5 heatset insert  | 31 |
+| M3x6 FHCS | 2 |
+| M3x8 SHCS | 5 |
+| M3x14 SHCS | 2 |
+| M3x16 SHCS | 4 |
+| M3x20 SHCS | 4 |
+| M3x25 SHCS | 8 |
+| M3x30 SHCS | 2 |
+
